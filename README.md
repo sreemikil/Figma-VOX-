@@ -34,7 +34,7 @@ In short, Figma Vox provides voice commands that allow you to complete a variety
 
 <a name="id"></a>
 ## Team Id
-* **THEKKINI**
+* **Team VOX**
 <a name="Linktoproductwalkthrough"></a>
 
 
