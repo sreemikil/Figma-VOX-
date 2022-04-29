@@ -1,18 +1,18 @@
 ![alt text](https://github.com/sreemikil/Figma-co-pilot/blob/b8216cf300bd20d2fbbe076935f2ec6837f19964/assets/cover123.png)
 
 
-# Figma Co-pilot
+# Figma VOX
 ## Introduction         
 
 ![Figma Co-pilot Gif Example](https://github.com/AkshayBenny/figma-copilot/blob/386572a252a7a68cacee6ee0458231e6377f3546/assets/demogif.gif)
 
 
 
-Find and fix errors in your designs with Figma Co-pilot , a plugin for Figma which help in following proper Design Guidelines to carve a better UI. 
+Figma Vox is a voice-activated virtual design assistant that will be primarily available on Figma as a third-party plugin capable of customising your design experience or creating more efficient workflows in Figma or Figma Jam files.
 
-Figma Co-pilot finds guideline erros within your designs on all your layers. Ensure your designs are ready for development or design collaboration by fixing inconsistencies.
+Users/Designers interact with Figma Vox using natural voice. Figma Vox can create UI designs based on voice commands given by the designer. Initially this feature of speech recognition will be available only in English, but in the future it will be able to support multiple languages and engage in two-way conversations, proposing real-time design recommendations based on industry standards/brand guidelines.
 
-While it's running, Figma Co-pilot will update automatically as you fix errors. Clicking on layer will also select that layer in your design. Navigating between each error is fast and much easier than trying to find errors on your own.
+In short, Figma Vox provides voice commands that allow you to complete a variety of design tasks. It is intended to provide the user/designer with conversational interactions in order to create a UI (even from scratch)
 
 ## Table of contents
 * [Team members](#members)
