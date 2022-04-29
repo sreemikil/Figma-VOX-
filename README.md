@@ -40,12 +40,8 @@ In short, Figma Vox provides voice commands that allow you to complete a variety
 
 <a name="howitworks"></a>
 ## Features
-- Selecting a layer with an error will also select the layer in Figma, letting you navigate your page and fix errors with full context.
-- Figma Co-pilot polls for changes and will update as you fix errors.
-- "Ignore" or "Ignore All" buttons let you skip special layers inorder to provide freedom for the designer.
-- Use the "Select All" option to fix multiple errors at once that share the same value.
-- Need to skip layers like illustrations? Locked layers in Figma will be skipped from linting.
-
+- Their are certain command which are used by the designer to communicate with figma.
+- Figma VOX receive voice inputs from the user and do the necessary actions like creating frames, Aligh objects, Deleting elements etc. 
 <a name="video"></a>
 
 
