@@ -24,8 +24,8 @@ In short, Figma Vox provides voice commands that allow you to complete a variety
 <a name="members"></a>
 ## Team members
 ![Akhil](https://github.com/itexpert2572000/Ctracker/blob/91a6a09e646eda69264b6611faa5278e0f03e1ab/readme_assets/tj.png) | ![Suvarnesh K M](https://github.com/itexpert2572000/Ctracker/blob/91a6a09e646eda69264b6611faa5278e0f03e1ab/readme_assets/suvarneshkm.png) | ![Sreemikil T Manoharan](https://github.com/itexpert2572000/Ctracker/blob/91a6a09e646eda69264b6611faa5278e0f03e1ab/readme_assets/sreemikil.png) | ![Akshay Benny](https://github.com/sreemikil/Figma-co-pilot/blob/30c288622cbc571157268eef73c61d971829a01b/assets/akshay.png)
------------- | ------------- | ------------- | ------------- 
-[@akhil-tj](https://github.com/akhil-tj) | [@rafitc ](https://github.com/rafitc) | [@Suvarnesh K M](https://github.com/SuvarneshKM) | [@Sreemikil T Manoharan](https://github.com/sreemikil) | [@AkshayBenny](https://github.com/AkshayBenny)
+------------ | ------------- | ------------- | ------------- | ------------- 
+[@akhil-tj](https://github.com/akhil-tj) | [@Suvarnesh K M](https://github.com/SuvarneshKM) | [@Sreemikil T Manoharan](https://github.com/sreemikil) | [@AkshayBenny](https://github.com/AkshayBenny)
 
 
 
