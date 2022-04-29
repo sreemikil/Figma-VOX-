@@ -1,4 +1,4 @@
-![alt text](https://github.com/sreemikil/Figma-co-pilot/blob/b8216cf300bd20d2fbbe076935f2ec6837f19964/assets/cover123.png)
+![alt text](Assets/Frame 1517.png)
 
 
 # Figma VOX
