@@ -63,6 +63,7 @@ That being said, Figma Co-pilot is ready for you to write custom rules for your 
 - ReactJs
 - Node.Js
 - Webpack
+- Mongo DB
 <!--## Total Visitors
 
 <img align="left" src = "https://profile-counter.glitch.me/flutter_ecommerce_app/count.svg" alt ="Loading"> ->
