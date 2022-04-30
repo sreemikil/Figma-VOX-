@@ -1,4 +1,4 @@
-![alt text](https://github.com/sreemikil/Figma-VOX-/blob/5ad8ba4a7b5096865f2f71e60fb67458209a0604/Assets/Frame%201517.png)
+![alt text](https://github.com/sreemikil/Figma-VOX-/blob/e8b7c60e6521f6d0ef8b85a41d4d07c3917a5340/Assets/VOX.png)
 
 
 # Figma VOX
