@@ -41,7 +41,7 @@ In short, Figma Vox provides voice commands that allow you to complete a variety
 <a name="howitworks"></a>
 ## Features
 - Designers communicate with Figma via a set of commands.
-- Figma VOX receive voice inputs from the user and do the necessary actions like creating frames, Aligh objects, Deleting elements etc. 
+- Figma VOX takes voice inputs and performs the necessary actions, such as creating frame, aligning objects, deleting elements, and so on. 
 <a name="video"></a>
 
 
